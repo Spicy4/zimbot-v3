@@ -39,11 +39,11 @@ global.APIKeys = {
 // Other
 global.owner = ['923184704421','']
 global.premium = ['923184704421','923184704421']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.botname = '┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ₀🔥┊'
+global.ownername = '𝑴𝒐𝒉𝒔𝒊𝒏 𝑴𝒂𝒉𝒊'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.packname = '𝑴𝒐𝒉𝒔𝒊𝒏 𝑴𝒂𝒉𝒊 ;┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ₀🔥┊'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
