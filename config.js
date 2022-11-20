@@ -43,7 +43,7 @@ global.botname = '┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ�
 global.ownername = '𝑴𝒐𝒉𝒔𝒊𝒏 𝑴𝒂𝒉𝒊'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = '𝑴𝒐𝒉𝒔𝒊𝒏 𝑴𝒂𝒉𝒊 ;┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ₀🔥┊'
+global.packname = '┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ₀🔥┊'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = '𝑴𝒐𝒉𝒔𝒊𝒏 𝑴𝒂𝒉𝒊'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
