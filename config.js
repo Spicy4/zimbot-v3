@@ -39,11 +39,11 @@ global.APIKeys = {
 // Other
 global.owner = ['923184704421','']
 global.premium = ['923184704421','923184704421']
-global.botname = '┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ₀🔥┊'
+global.botname = '𓆩❤️𓆪𓅋 ₊₉⃗₂₃₄ᷟ₁ͦ₀ͪ₅ᷤ₂ͥ₅ᷡ₉⃗₄₀ 𓃮𓆩❤️𓆪'
 global.ownername = '𝑴𝒐𝒉𝒔𝒊𝒏 𝑴𝒂𝒉𝒊'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = '┊❤️ₒᷤ₃ͪ₄ᷳ₁ᷡₒͣ₅₂ᷟ₅ͣ₉ͪ₄ͥ₀🔥┊'
+global.packname = '𓆩❤️𓆪 𓅋 ₊₉⃗₂₃₄ᷟ₁ͦ₀ͪ₅ᷤ₂ͥ₅ᷡ₉⃗₄₀ 𓃮 ; 🌍 ᷞ ͦ ͮ ͤ🐣♥️𓆩✨𓆪'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
